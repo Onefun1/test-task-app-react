@@ -1,0 +1,2 @@
+.table{display:flex;flex-direction:row;justify-content:space-around}span{cursor:pointer;border:1px solid #000;padding:10px;margin-bottom:10px;width:50px;height:60px;line-height:60px;background-color:#fff;box-shadow:0 0 5px #000}span:hover{font-size:35px;box-shadow:0 0 5px red}body{background-color:#424141}.App{font-family:sans-serif;text-align:center;font-size:20px;display:flex;flex-direction:column;width:50%;min-width:500px;margin:0 auto;padding:10px;box-sizing:border-box;background-color:#ccc}
+/*# sourceMappingURL=main.8de36615.chunk.css.map */
